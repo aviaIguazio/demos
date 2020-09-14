@@ -29,7 +29,6 @@ url = <nuclio endpoint>
 
 <a id="run-client"></a>
 ## Run the Client
->>>>>>> upstream/master
 
 ```sh
 python video_capture.py
